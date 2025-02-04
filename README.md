@@ -1,6 +1,6 @@
 # LPO
 
-This repository contains the official pytorch implementation of the “Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization” paper.
+This repository contains the official pytorch implementation of the “[Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization](https://arxiv.org/abs/2502.01051)” paper.
 
 ## 📖 Introduction
 
